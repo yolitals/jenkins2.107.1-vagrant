@@ -1,2 +1,4 @@
 package.box
 .vagrant/**
+src/
+jenkins/
